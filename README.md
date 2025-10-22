@@ -61,8 +61,8 @@ There are **two ways** to play the game:
 
 ## 📁 Project Structure
 
-```text
-project/
+```bash
+Rock-Paper-Scissors/
 │── src/
 │ │── main.py # Terminal version of the game
 │ │── gui_main.py # Web GUI version using Streamlit
