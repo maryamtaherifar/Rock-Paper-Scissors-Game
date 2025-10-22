@@ -44,9 +44,11 @@ There are **two ways** to play the game:
 2. Install dependencies:
    ```bash
    pip install -r requirements1.txt
+   ```
 3. Run the game:
     ```bash
     python main.py
+    ```
 
 ### ✅ 2. Web GUI Mode (Streamlit)
 
@@ -55,9 +57,11 @@ There are **two ways** to play the game:
 2. Install dependencies:
     ```bash
     pip install -r requirements2.txt
+    ```
 3. Run the game with Streamlit:
     ```bash
     streamlit run gui_main.py
+    ```
 
 ## 📁 Project Structure
 
